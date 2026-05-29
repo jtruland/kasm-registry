@@ -14,11 +14,11 @@
   ],
   "compatibility": [
     {
-      "version": "1.17.x",
-      "image": "jtruland/kasm-claude-code:20250528-0000",
+      "version": "1.19.0",
+      "image": "jtruland/kasm-claude-code:develop",
       "uncompressed_size_mb": 6722,
       "available_tags": [
-        "latest",
+        "develop",
         "20250528-0000"
       ]
     }
