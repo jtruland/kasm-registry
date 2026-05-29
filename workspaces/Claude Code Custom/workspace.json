@@ -1,5 +1,5 @@
 {
-  "description": "Claude Code (custom) — Kasm desktop running the Claude Code CLI plus developer tooling: gh, docker-cli, Playwright/Chromium, Python (pip/pipx/uv/ansible), and .NET 8 SDK + pac CLI (Power Platform). The ~/.claude profile is persisted via the Kasm persistent profile volume.",
+  "description": "Claude Code (custom) — Kasm desktop running the Claude Code CLI plus developer tooling: gh, docker-cli, Playwright/Chromium, Python (pip/pipx/uv/ansible), and .NET 8 SDK + pac CLI (Power Platform). The ~/.claude profile is persisted via the Kasm persistent profile volume. [Build: 2026-05-29 14:59 UTC]",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "claude-code.png",
   "run_config": {
@@ -19,7 +19,7 @@
       "uncompressed_size_mb": 6722,
       "available_tags": [
         "develop",
-        "20260529-1453"
+        "20260529-1459"
       ]
     }
   ]
